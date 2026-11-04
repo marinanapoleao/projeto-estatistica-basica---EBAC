@@ -86,6 +86,83 @@ Categoria -----	Categoria do produto
 
 ## 📈  Resultados e Métricas
 
+#### *Estatísticas gerais dos preços*
+
+Indicador ———————————— Resultado
+
+Quantidade de produtos —————— 1.107
+
+Preço normal médio ———————— 2.070,99
+
+Preço normal mediano ——————— 1.269,00
+
+Desvio padrão do preço normal ——— 2.961,26
+
+Preço normal mínimo ———————— 0
+
+Preço normal máximo ———————— 19.788
+
+#### *Média e mediana dos preços por categoria*
+
+Categoria  ———————— Média ————— Mediana
+
+Comidas preparadas ———— 3.095,04 ———— 3.290,00
+
+Laticínios ————————— 2.385,22 ———— 989,00
+
+Congelados ———————— 2.108,04 ———— 1.519,00
+
+Beleza e cuidados pessoais — 1.783,56 ———— 1.569,00
+
+Frutas —————————— 1.724,47 ———— 1.195,00
+
+Verduras ————————— 1.343,30 ———— 1.180,00
+
+Instantâneos e sopas ———— 765,49 ———— 439,00
+
+
+#### *Desvio padrão por categoria*
+
+Categoria ———————— Desvio padrão
+
+Laticínios ————————— 3.925,82
+
+Beleza e cuidados pessoais —— 2.210,04
+
+Congelados ———————— 2.111,54
+
+Comidas preparadas ————— 2.019,91
+
+Frutas —————————— 1.639,15
+
+Instantâneos e sopas ——— 1.170,23
+
+Verduras ————————— 1.012,70
+
+#### *Média da variável Desconto por categoria*
+
+Categoria ————————— Média de desconto
+
+Congelados ———————————— 154,03
+
+Beleza e cuidados pessoais ————— 123,08
+
+Comidas preparadas ———————— 43,48
+
+Laticínios ————————————— 17,41
+
+Frutas ——————————————— 0
+
+Instantâneos e sopas ———————— 0
+
+Verduras —————————————— 0
+
+#### *Análise de outliers*
+
+O notebook apresenta a aplicação de Z-score considerando valores absolutos iguais ou superiores a 3.
+
+Entretanto, existe uma divergência: a anotação do projeto registra 8 outliers (índices 53 a 60), enquanto a saída da execução salva apresenta uma relação com 32 registros. Essa quantidade precisa ser conferida.
+
 ## 💡 Principais Insights e Implicações
 
 #### *1. Diferença na distribuição dos preços entre categorias*
