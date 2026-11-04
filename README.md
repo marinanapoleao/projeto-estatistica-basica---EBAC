@@ -90,37 +90,37 @@ Categoria -----	Categoria do produto
 
 #### *1. Diferença na distribuição dos preços entre categorias*
 
-A categoria de comidas preparadas apresenta média inferior à mediana (3.095,04 contra 3.290,00). Nas demais categorias, a média é superior à mediana.
+- A categoria de comidas preparadas apresenta média inferior à mediana (3.095,04 contra 3.290,00). Nas demais categorias, a média é superior à mediana.
 
-Isso indica que a distribuição dos preços apresenta comportamentos diferentes entre as categorias.
+- Isso indica que a distribuição dos preços apresenta comportamentos diferentes entre as categorias.
 
-Implicação para o negócio: utilizar média e mediana em conjunto para compreender melhor a estrutura de preços, evitando que produtos de valores elevados distorçam a percepção do preço habitual de uma categoria.
+- Implicação para o negócio: utilizar média e mediana em conjunto para compreender melhor a estrutura de preços, evitando que produtos de valores elevados distorçam a percepção do preço habitual de uma categoria.
 
 #### *2. Grande dispersão de preços em laticínios*
 
-Laticínios apresentam o maior desvio padrão (3.925,82), além de uma média de 2.385,22 e mediana de 989,00.
+- Laticínios apresentam o maior desvio padrão (3.925,82), além de uma média de 2.385,22 e mediana de 989,00.
 
-Implicação para o negócio: investigar a variedade de produtos e marcas dessa categoria, identificando diferenças relevantes de posicionamento de preço.
+- Implicação para o negócio: investigar a variedade de produtos e marcas dessa categoria, identificando diferenças relevantes de posicionamento de preço.
 
 #### *3. Maior estabilidade de preços em verduras*
 
-Verduras apresentam o menor desvio padrão (1.012,70), além de média e mediana relativamente baixas.
+- Verduras apresentam o menor desvio padrão (1.012,70), além de média e mediana relativamente baixas.
 
-Implicação para o negócio: acompanhar a estabilidade dos preços dessa categoria e utilizá-la como referência comparativa para outras categorias com maior variação.
+- Implicação para o negócio: acompanhar a estabilidade dos preços dessa categoria e utilizá-la como referência comparativa para outras categorias com maior variação.
 
 #### *4. Diferenças nos descontos entre categorias*
 
-Congelados e produtos de beleza e cuidados pessoais apresentam as maiores médias na variável Desconto.
+- Congelados e produtos de beleza e cuidados pessoais apresentam as maiores médias na variável Desconto.
 
-Frutas, verduras e instantâneos e sopas apresentam médias iguais a zero.
+- Frutas, verduras e instantâneos e sopas apresentam médias iguais a zero.
 
-Implicação para o negócio: investigar as estratégias promocionais adotadas para cada categoria e avaliar oportunidades de campanhas de desconto.
+- Implicação para o negócio: investigar as estratégias promocionais adotadas para cada categoria e avaliar oportunidades de campanhas de desconto.
 
 #### *5. Diferenças entre marcas*
 
-O treemap por categoria e marca permite visualizar a distribuição da variável Desconto entre os diferentes fabricantes.
+- O treemap por categoria e marca permite visualizar a distribuição da variável Desconto entre os diferentes fabricantes.
 
-Implicação para o negócio: utilizar essa visualização para comparar as práticas promocionais entre marcas e identificar quais apresentam maiores valores médios de desconto.
+- Implicação para o negócio: utilizar essa visualização para comparar as práticas promocionais entre marcas e identificar quais apresentam maiores valores médios de desconto.
 
 ## ⚠️​ Pontos de atenção na documentação: 
 
